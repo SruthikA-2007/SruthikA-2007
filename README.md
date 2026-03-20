@@ -68,7 +68,7 @@ Git, GitHub, VS Code, Jupyter Notebook
 
 ## 📈 GitHub Stats  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SruthikA-2007&show_icons=true&theme=radical" height="170"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SruthikA-2007&theme=radical" height="170"/>
