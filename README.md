@@ -74,7 +74,7 @@ Git, GitHub, VS Code, Jupyter Notebook
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthikA-2007&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -101,6 +101,5 @@ Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-## 💬 Quote  
-
+## 💬 
 <p align="center"><i>“Consistency in small improvements builds strong developers.”</i></p>
