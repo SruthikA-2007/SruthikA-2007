@@ -66,19 +66,6 @@ Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SruthikA-2007&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SruthikA-2007&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthikA-2007&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 📜 Certifications  
 
 📜 Python for Data Science – NPTEL (IIT Madras)  
