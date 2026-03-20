@@ -8,8 +8,6 @@
 🎓 **B.Tech in Computer Science and Business Systems**  
 Thiagarajar College of Engineering (2024–2028)  
 
-📊 **CGPA:** 8.39 / 10  
-
 💡 Strong interest in **Software Development, Problem Solving, and Full Stack Development**  
 
 📌 Exploring **Mobile Application Development**  
